@@ -6,3 +6,9 @@ Working with 2 other like-minded friends to put Kannada version of https://agile
 Pl feel free to suggest/update changes.
 
 Only goal is to get Kannada version published.  
+
+S M Jalageri
+Mallikarjuna S Jalageri
+Spoorthi Basavarajappa Satish
+Aravinda M Satarekar
+M Renuka Prasad
