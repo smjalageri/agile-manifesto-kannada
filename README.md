@@ -1,2 +1,8 @@
 # agile-manifesto-kannada
-Kannada Translation of Agile Manifesto
+Kannada Translation of Agile Manifesto and 12 principles of Agile Development
+
+Working with 2 other like-minded friends to put Kannada version of https://agilemanifesto.org/
+
+Pl feel free to suggest/update changes.
+
+Only goal is to get Kannada version published.  
