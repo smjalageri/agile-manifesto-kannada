@@ -15,7 +15,7 @@ Only goal is to get Kannada version published.
 
 ಎನಗಿಂತ ಕಿರಿಯರಿಲ್ಲ, ಶಿವಶರಣರಿಗಿಂತ ಹಿರಿಯರಿಲ್ಲ
 
-Rationale: (ಮಿತ್ರ [@achyutha](URL https://twitter.com/achyutha) ರಿಗೆ ಥಾಂಕ್ಸ್, ಪದ ಬಳಕೆಯ ಹಿಂದಿನ ಕಾರಣ ಬರೆವುದು ಒಳ್ಳೆಯದು ಎಂದು ಅರಿವು ಮೂಡಿಸಿದರು)
+Rationale: [ಮಿತ್ರ @achyutha](https://twitter.com/achyutha) ರಿಗೆ ಥಾಂಕ್ಸ್, ಪದ ಬಳಕೆಯ ಹಿಂದಿನ ಕಾರಣ ಬರೆವುದು ಒಳ್ಳೆಯದು ಎಂದು ಅರಿವು ಮೂಡಿಸಿದರು)
 
 Why Agile is translated as ಕುಶಲ  instead of ಚುರುಕು, ಲಗುಬಗೆ, …
 
